@@ -27,8 +27,8 @@ nav-menu: true
   <a name="code-practice"></a>
   <h3>Code Practice</h3>
   <ul>
-    <li><a href="https://www.codewars.com/"><strong>Codewars</strong> - practice your coding. Earn some XP.</a></li><br />
-    <li><a href="https://exercism.io/"><strong>Exercism</strong> - practice on the ruby track. Get feedback from mentors. FREE.</a></li><br />
+    <li><a href="https://www.codewars.com/"><strong>Codewars</strong> - practice your coding solving problems. Earn some XP.</a></li><br />
+    <li><a href="https://exercism.io/"><strong>Exercism</strong> - practice on the ruby track. Similar in concept to codewars but you get feedback from mentors. FREE.</a></li><br />
     <li><a href="https://regexr.com/"><strong>Regexr</strong> - get better at regex.</a></li><br />
   </ul>
 
