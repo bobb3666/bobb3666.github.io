@@ -3,7 +3,7 @@ title: bobb3666 devvin
 subtitle: hacking through the hacking
 email: 
 description: A personal github page for bobb3666
-baseurl: /blog # the subpath of your site, e.g. /blog
+baseurl: 
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Not Telling street_address
@@ -14,14 +14,14 @@ country:
 phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
 500px_url:
 facebook_url:
 github_url: https://github.com/bobb666
-gitlab_url: https://gitlab.com/u/andrewbanchich
+gitlab_url: 
 googleplus_url:
 instagram_url: 
 linkedin_url: 
