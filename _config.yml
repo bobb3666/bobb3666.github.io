@@ -1,5 +1,5 @@
 # site settings
-title: bobb3666 devvin
+title: bobb3666 devvin'
 subtitle: hacking through the hacking
 email: 
 description: A personal github page for bobb3666
@@ -19,15 +19,15 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/cheerfulnihilism/
 github_url: https://github.com/bobb666
 gitlab_url: 
 googleplus_url:
-instagram_url: 
+instagram_url: https://www.instagram.com/titotriesart/
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url: https://twitter.com/kanyewest
 
 # build settings
 markdown: kramdown
