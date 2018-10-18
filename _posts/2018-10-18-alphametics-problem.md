@@ -67,7 +67,7 @@ Elegant. I was trying to achieve this same function in around 50 lines of code a
 
 Below is the fully implemented code from @gchan, which I have commented on to help me understan it. I'd say doing things this way is helpful when you have no idea what you're doing. I had to look up each method I didn't know about. Practice my regex. Learn some tricks. Great stuff. Thank's gchan.
 
-{% highlight ruby linenos %}
+~~~ruby
 class Alphametics
   def self.solve(puzzle)
     # change math sign ^ to ** for ruby
@@ -92,6 +92,6 @@ class Alphametics
     end
   end
 end
-{% endhighlight %}
+~~~
 
 Byenow. 
