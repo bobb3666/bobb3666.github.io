@@ -31,6 +31,7 @@ nav-menu: true
     <li><a href="https://www.codewars.com/"><strong>Codewars</strong> - practice your coding solving problems. Earn some XP.</a></li><br />
     <li><a href="https://exercism.io/"><strong>Exercism</strong> - practice on the ruby track. Similar in concept to codewars but you get feedback from mentors. FREE.</a></li><br />
     <li><a href="https://regexr.com/"><strong>Regexr</strong> - get better at regex.</a></li><br />
+    <li><a href="http://rubular.com/"><strong>Rubular</strong> - a Ruby regular expression editor. This is also good.</a></li><br />
   </ul>
 
 
