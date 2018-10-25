@@ -3,10 +3,10 @@ layout: post
 title: Ubuntu indicator apps
 description: Be indicators
 categories: Ubuntu
-image:
+image: https://cdn.arstechnica.net/wp-content/uploads/2018/05/ubuntu1804-files-640x360.jpeg
 ---
 
-![Ubuntu]()
+![Ubuntu](https://cdn.arstechnica.net/wp-content/uploads/2018/05/ubuntu1804-files-640x360.jpeg)
 
 I needed an indicator app that let me know when I pressed my keylocks (capslock, numlock), and came across a good article from [It's FOSS](https://itsfoss.com/best-indicator-applets-ubuntu/). I found that the linked indicator was good, and was thinking of adding a few more...
 
