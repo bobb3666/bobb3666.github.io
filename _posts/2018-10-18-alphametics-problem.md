@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Alphametics Problem
-descriptions: Ruby track alphametics exercise solution
+description: Ruby track alphametics exercise solution
 categories: [Exercism, Ruby]
 image: http://www.mathmavericktutor.com/wp-content/uploads/2014/12/AlphameticsEx.png
 ---
