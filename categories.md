@@ -14,11 +14,11 @@ nav-menu: true
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
-    <h3 class="category-head"><u>{{ category_name }}</u></h3>
+    <h1 class="category-head"><u>{{ category_name }}</u></h1>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
     </article>
     {% endfor %}
   </div>

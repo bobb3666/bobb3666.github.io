@@ -20,6 +20,7 @@ nav-menu: true
     <li><a href="#rails"><strong>Ruby on Rails</strong></a></li>
     <li><a href="#python"><strong>Python</strong></a></li>
     <li><a href="#cheatsheets"><strong>Cheat Sheets</strong></a></li>
+    <li><a href="#other"><strong>Other</strong></a></li>
   </ul>
 
   <img src="http://righthanddesign.com.au/blog/wp-content/uploads/2014/10/internet-links.jpg" title="So many links" style="width:50%;height:auto" class="center">
@@ -62,6 +63,12 @@ nav-menu: true
     <li><a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf"><strong>Markdown cheat sheet</strong> - why bother remembering shit?</a></li><br />
     <li><a href="https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285"><strong>Regex cheat sheet</strong> - blog post with examples to learn you good.</a></li><br />
   </ul>
+
+  <a name="other"></a>
+  <h3>Other</h3>
+  <ul>
+    <li><a href="https://pixlr.com/"><strong>Pixlr</strong> - Online photo editor.</a></li><br />
+  </ul> 
 
 
 
