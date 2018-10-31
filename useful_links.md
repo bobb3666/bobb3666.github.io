@@ -47,6 +47,8 @@ nav-menu: true
   <h3>Ruby on Rails</h3>
   <ul>
     <li><a href="https://www.railstutorial.org/book"><strong>Rails Tutorial</strong> - can't beat the classics.</a></li><br />
+    <li><a href="http://tutorials.jumpstartlab.com/"><strong>Jumpstart Lab Tutorials</strong> - cool rails tutorials.</a></li><br />
+    <li><a href="https://www.theodinproject.com/"><strong>The Odin Project</strong> - web development tutorials. Lead by other sites. Good resources.</a></li><br />
   </ul>
 
 
@@ -68,6 +70,7 @@ nav-menu: true
   <h3>Other</h3>
   <ul>
     <li><a href="https://pixlr.com/"><strong>Pixlr</strong> - Online photo editor.</a></li><br />
+    <li><a href="http://gen.lib.rus.ec/"><strong>Library Genesis</strong> - get texts for free and probably not legally?</a></li><br />
   </ul> 
 
 
